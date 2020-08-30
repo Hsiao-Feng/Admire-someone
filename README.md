@@ -3,4 +3,4 @@
 ## 项目特点
 即装即用，方便快捷，随时随地膜拜。
 ## Demo
-https://witcater.win/cuso4/
+https://witcater.win/admire/
